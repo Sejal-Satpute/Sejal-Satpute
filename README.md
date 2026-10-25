@@ -1,16 +1,38 @@
-## Hi there 👋
+Hi, I'm Sejal 👋
 
-<!--
-**Sejal-Satpute/Sejal-Satpute** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring Software Engineer
 
-Here are some ideas to get you started:
+💻 C++ | DSA | Python
+🧠 Problem Solving & Logical Thinking
+🚀 Learning, Building & Improving
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+🛠️ Tech & Tools
+
+- C / C++
+- Python
+- Data Structures & Algorithms
+- Git & GitHub
+
+📚 Currently Learning
+
+- Advanced C++
+- Data Structures & Algorithms
+- Problem Solving
+- Software Development
+
+🚀 What I'm Working On
+
+Building projects, improving my coding skills, and exploring the intersection of software and electronic
+
+📌 Goals
+
+- Build meaningful projects
+- Strengthen DSA & problem-solving
+- Contribute to open-source projects
+- Prepare for software engineering opportunities
+
+---
+
+✨ Let's Build & Learn Together!
